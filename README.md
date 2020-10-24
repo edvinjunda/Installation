@@ -4,4 +4,4 @@
 ## installation v2
 
 //asd23
-//hello
+//cout<<"hello world"<<endl;
